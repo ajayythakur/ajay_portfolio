@@ -15,7 +15,7 @@ const Portfolio = () => {
                     <h1>PROJECTS</h1>
                     <p><a href='https://ajayythakur.github.io/DIGITAL-CLOCK'>Digital Clock</a></p>
                     <p><a href='https://loquacious-dieffenbachia-c02b43.netlify.app/'>Blog App </a></p>
-                    <p><a href='https ://ajayythakur.github.io/TO-DO-JS/'>ToDo App</a></p>
+                    <p><a href='https://ajayythakur.github.io/TO-DO-JS/'>ToDo App</a></p>
                     <p><a href='https://condingninja.netlify.app/'>Coding Ninja Clone</a></p>
 
                     {/* <h1>About</h1> */}
